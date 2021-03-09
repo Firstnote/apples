@@ -21,6 +21,7 @@ class Apple {
   }
 }
 class AppleBasketClass {
+  // store
   basket = [];
   length = 0;
   isgetting = false; //正在摘苹果
